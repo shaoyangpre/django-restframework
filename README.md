@@ -1,3 +1,3 @@
 # django-restframework
 django-restframework
-https://www.cnblogs.com/wangcuican/p/11681439.html
+https://www.cnblogs.com/wangcuican/p/11748025.html
